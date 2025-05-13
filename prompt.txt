@@ -1,0 +1,6 @@
+1. Skapa en kontaktbok i Python med stöd för:
+   - Multipla telefonnummer och e-post per kontakt
+   - SQLite som backend
+   - Sökbarhet på namn, telefonnummer och e-post
+   - TUI-gränssnitt, gärna med urwid eller curses
+   - Möjlighet att lägga till, uppdatera och ta bort kontakter
